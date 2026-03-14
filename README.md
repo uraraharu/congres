@@ -96,5 +96,3 @@ L'application repose sur une base MySQL relationnelle nommée `congres`.
 4.  Accéder via `http://localhost/congres/`.
 
 ---
-
-
