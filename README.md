@@ -5,6 +5,8 @@
 > **Projet** : Application de gestion d'hôtels et de congressistes
 
 ---
+<img width="1352" height="758" alt="ss congres" src="https://github.com/user-attachments/assets/d5ea9018-f3b2-47af-9bbc-040009f1f155" />
+
 
 ## 1. Présentation du Projet
 L'application **Gestion Congrès** est une solution web permettant de gérer l'hébergement des participants à un congrès. Elle offre des fonctionnalités pour l'administration des hôtels (création, modification, suppression) et l'affectation des chambres aux congressistes, en respectant des règles de gestion strictes (disponibilité, facturation).
